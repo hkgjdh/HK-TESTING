@@ -4,7 +4,7 @@
     "message": "Please update to latest version.",
     "maintenance_mode": false,
     "maintenance_message": "Server is under maintenance",
-    "telegram_notification": false,
+    "telegram_notification": true,
     "telegram_message": "⚠️ LOADER SERVER OFFLINE!\n\nJoin our Telegram channel for updates.\n\nClick OK to join now.",
     "blocked_loaders": ["BRUTAL", "GX_CLAN"]
 }
