@@ -1,8 +1,14 @@
 {
     "version": "1.2",
-    "title": "Loader Update",
-    "message": "New version available! Please update to continue.",
-    "blocked_loaders": [],
+    "title": "Update Available",
+    "message": "Please update to latest version.",
     "maintenance_mode": false,
-    "maintenance_message": "Server is under maintenance. Please try again later."
+    "maintenance_message": "Server is under maintenance.",
+    "redirect_telegram": {
+        "enabled": true,
+        "telegram_url": "https://t.me/+7XECyNBRDIMwMmY1",
+        "title": "Server Offline V1",
+        "message": "Loader server is offline. Please join our Telegram channel for updates V1"
+    },
+    "blocked_loaders": ["BRUTAL", "GX_CLAN"]
 }
