@@ -1,10 +1,8 @@
 {
     "version": "1.2",
-    "title": "Update Available",
-    "message": "Please update to latest version.",
-    "maintenance_mode": false,
-    "maintenance_message": "Server is under maintenance",
-    "telegram_notification": true,
-    "telegram_message": "⚠️ LOADER SERVER OFFLINE!\n\nJoin our Telegram channel for updates.\n\nClick OK to join now.",
-    "blocked_loaders": ["BRUTAL", "GX_CLAN"]
+    "title": "Loader Update",
+    "message": "New version available! Please update to continue.",
+    "blocked_loaders": [],
+    "maintenance_mode": true,
+    "maintenance_message": "Server is offline, join Telegram @DuneCheats for more information"
 }
