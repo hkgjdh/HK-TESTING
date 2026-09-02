@@ -3,6 +3,6 @@
     "title": "Loader Update",
     "message": "New version available! Please update to continue.",
     "blocked_loaders": [],
-    "maintenance_mode": true,
+    "maintenance_mode": false,
     "maintenance_message": "The mod server is currently offline. Join our Telegram channel @DuneCheats for the latest updates."
 }
