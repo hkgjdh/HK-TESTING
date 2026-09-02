@@ -2,7 +2,7 @@
   "loaders": [
     {
       "name": "DUNE_CHEATS",
-      "displayName": "",
+      "displayName": "DUNE CHEATS",
       "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
       "ui1": true,
@@ -11,7 +11,7 @@
       "ui4": false,
       "ui5": false,
       "ui6": false,
-      "textColor": [1.0, 1.0, 0.0],
+      "textColor": [1.0, 0.0, 1.0],
       "expireColor": [0.0, 0.75, 1.0],
       "textX": 0.0,
       "textY": 120.0,
